@@ -1,0 +1,4 @@
+# Requirements for OctoFit Tracker Backend
+# Based on Mona High School Fitness Tracker
+
+django
